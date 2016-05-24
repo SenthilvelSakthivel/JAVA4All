@@ -1,4 +1,4 @@
-package com.senvel.Helper;
+package org.Java4All.LinkedList;
 
 public class Node {
 	Node next;

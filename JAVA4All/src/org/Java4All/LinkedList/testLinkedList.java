@@ -1,6 +1,4 @@
-package com.senvel.Helper;
-
-import com.senvel.*;
+package org.Java4All.LinkedList;
 
 public class testLinkedList {
 

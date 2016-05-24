@@ -1,4 +1,5 @@
-package com.senvel.Helper;
+package org.Java4All.HashMap;
+
 import java.util.HashMap;
 
 

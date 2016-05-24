@@ -1,3 +1,4 @@
+package org.Java4All.DOM;
 import java.io.IOException;
 
 import javax.xml.parsers.DocumentBuilder;
