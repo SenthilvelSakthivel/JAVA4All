@@ -33,6 +33,7 @@ public class ReadUrl
 		} catch (IOException e) {
 			// TODO Auto-generated catch block
 			e.printStackTrace();
+			System.out.println("Completed the job");
 		}
 	}
 }
